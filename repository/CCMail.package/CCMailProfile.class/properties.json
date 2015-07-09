@@ -1,0 +1,14 @@
+{
+	"category" : "CCMail",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CCMailProfile",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
