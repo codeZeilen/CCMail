@@ -1,0 +1,3 @@
+as yet unclassified
+archiveWithDataSource: aMailArchiveDataSource
+	^ self basicNew initializeWithDataSource: aMailArchiveDataSource

@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"dataSourceWithReader:andWriter:" : "cc 7/9/2015 01:24" },
+	"instance" : {
+		"boxes" : "cc 7/9/2015 01:25",
+		"initializeWithReader:andWriter:" : "cc 7/9/2015 01:23",
+		"messagesInBoxNamed:" : "cc 7/9/2015 01:25",
+		"reader" : "cc 7/9/2015 01:21",
+		"reader:" : "cc 7/9/2015 01:21",
+		"writer" : "cc 7/9/2015 01:21",
+		"writer:" : "cc 7/9/2015 01:21" } }

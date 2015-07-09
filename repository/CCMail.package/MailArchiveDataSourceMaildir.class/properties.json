@@ -1,0 +1,14 @@
+{
+	"category" : "CCMail",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MailArchiveDataSourceMaildir",
+	"pools" : [
+		 ],
+	"super" : "MailArchiveDataSource",
+	"type" : "normal" }
