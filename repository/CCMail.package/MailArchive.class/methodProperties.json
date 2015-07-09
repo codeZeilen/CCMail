@@ -7,6 +7,7 @@
 		"boxWithName:" : "cc 7/9/2015 02:15",
 		"boxes" : "cc 7/6/2015 18:11",
 		"initializeWithDataSource:" : "cc 7/9/2015 01:50",
+		"message:isNewInBoxNamed:" : "cc 7/10/2015 01:09",
 		"messageWithId:fromBoxWithName:" : "cc 7/9/2015 10:25",
 		"moveMessageWithId:fromBoxWithName:toBoxWithName:" : "cc 7/9/2015 10:25",
 		"removeBoxWithName:" : "cc 7/9/2015 23:56",

@@ -8,10 +8,10 @@ defcfb46d54e21047fab91cc09e66b50b23
 	| topLevelMessages |
 	topLevelMessages := messages select: [:m | 
 		| value |
-		value := m headerFieldAt: #'in-reply-to'.
+		value := m second headerFieldAt: #'in-reply-to'.
 		value isNil
 			ifTrue: [true]
-			ifFalse: [((messages collect: [:msg | msg headerFieldAt: #'message-id']) includes: value) not].
+			ifFalse: [((messages collect: [:msg | msg second headerFieldAt: #'message-id']) includes: value) not].
 	].
 	{{topLevelMessages. relatedMessages copyWithoutAll: topLevelMessages.}}
 ] valueWithArguments: tuple]]
@@ -21,10 +21,10 @@ defcfb46d54e21047fab91cc09e66b50b23
 	| topLevelMessages |
 	topLevelMessages := messages select: [:m | 
 		| value |
-		value := m headerFieldAt: #''in-reply-to''.
+		value := m second headerFieldAt: #''in-reply-to''.
 		value isNil
 			ifTrue: [true]
-			ifFalse: [((messages collect: [:msg | msg headerFieldAt: #''message-id'']) includes: value) not].
+			ifFalse: [((messages collect: [:msg | msg second headerFieldAt: #''message-id'']) includes: value) not].
 	].
 	{{topLevelMessages. relatedMessages copyWithoutAll: topLevelMessages.}}
 ] valueWithArguments: tuple]]

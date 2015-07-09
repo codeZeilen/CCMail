@@ -4,6 +4,7 @@
 	"instance" : {
 		"boxes" : "cc 7/9/2015 01:25",
 		"initializeWithReader:andWriter:" : "cc 7/9/2015 01:23",
+		"message:isNewInBoxNamed:" : "cc 7/10/2015 01:08",
 		"messagesInBoxNamed:" : "cc 7/9/2015 01:25",
 		"reader" : "cc 7/9/2015 01:21",
 		"reader:" : "cc 7/9/2015 01:21",
