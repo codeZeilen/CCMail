@@ -1,4 +1,4 @@
-as yet unclassified
+initialize-release
 initializeWithDataSource: aMailArchiveDataSource
 	self
 		initialize;

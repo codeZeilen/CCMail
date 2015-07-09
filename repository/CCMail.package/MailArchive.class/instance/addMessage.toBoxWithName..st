@@ -1,4 +1,4 @@
-as yet unclassified
+write-data
 addMessage: aMailMessage toBoxWithName: aBoxName
 	| box |
 	self flag: #needsSync.

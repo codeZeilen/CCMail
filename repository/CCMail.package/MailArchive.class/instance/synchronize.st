@@ -1,4 +1,4 @@
-as yet unclassified
+synchronization
 synchronize
 	boxes := nil.
 	self source boxes do: [:b | 

@@ -1,4 +1,4 @@
-as yet unclassified
+initialize-release
 initializeWithReader: aReader andWriter: aWriter
 	self
 		initialize;

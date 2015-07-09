@@ -1,3 +1,3 @@
-as yet unclassified
+retrieve-data
 boxWithName: aBoxName
 	^ self boxes at: aBoxName

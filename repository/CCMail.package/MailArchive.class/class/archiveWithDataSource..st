@@ -1,3 +1,3 @@
-as yet unclassified
+initialize-release
 archiveWithDataSource: aMailArchiveDataSource
 	^ self basicNew initializeWithDataSource: aMailArchiveDataSource

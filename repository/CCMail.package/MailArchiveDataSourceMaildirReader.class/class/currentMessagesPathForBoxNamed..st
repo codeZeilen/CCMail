@@ -1,3 +1,3 @@
-as yet unclassified
+file-reading
 currentMessagesPathForBoxNamed: aBoxName
 	^ (self pathForBoxNamed: aBoxName) directoryNamed: 'cur'

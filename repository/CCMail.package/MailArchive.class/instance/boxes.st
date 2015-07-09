@@ -1,3 +1,3 @@
-as yet unclassified
+accessing
 boxes
 	^ boxes ifNil: [boxes := Dictionary new]

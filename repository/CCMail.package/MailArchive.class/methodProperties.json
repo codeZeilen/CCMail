@@ -6,10 +6,10 @@
 		"addMessage:toBoxWithName:" : "cc 7/6/2015 18:18",
 		"boxWithName:" : "cc 7/9/2015 02:15",
 		"boxes" : "cc 7/6/2015 18:11",
-		"getMessageWithId:fromBoxWithName:" : "cc 7/6/2015 18:28",
 		"initializeWithDataSource:" : "cc 7/9/2015 01:50",
-		"moveMessageWithId:fromBoxWithName:toBoxWithName:" : "cc 7/6/2015 18:33",
-		"removeMessageWithId:fromBoxWithName:" : "cc 7/6/2015 18:30",
+		"messageWithId:fromBoxWithName:" : "cc 7/9/2015 10:25",
+		"moveMessageWithId:fromBoxWithName:toBoxWithName:" : "cc 7/9/2015 10:25",
+		"removeMessageWithId:fromBoxWithName:" : "cc 7/9/2015 10:25",
 		"source" : "cc 7/9/2015 01:19",
 		"source:" : "cc 7/9/2015 01:20",
 		"synchronize" : "cc 7/9/2015 01:46" } }

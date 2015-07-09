@@ -1,3 +1,3 @@
-as yet unclassified
+paths
 pathForBoxNamed: aBoxName
 	^ self basePath directoryNamed: aBoxName 
