@@ -9,6 +9,7 @@
 		"initializeWithDataSource:" : "cc 7/9/2015 01:50",
 		"messageWithId:fromBoxWithName:" : "cc 7/9/2015 10:25",
 		"moveMessageWithId:fromBoxWithName:toBoxWithName:" : "cc 7/9/2015 10:25",
+		"removeBoxWithName:" : "cc 7/9/2015 23:56",
 		"removeMessageWithId:fromBoxWithName:" : "cc 7/9/2015 10:25",
 		"source" : "cc 7/9/2015 01:19",
 		"source:" : "cc 7/9/2015 01:20",
