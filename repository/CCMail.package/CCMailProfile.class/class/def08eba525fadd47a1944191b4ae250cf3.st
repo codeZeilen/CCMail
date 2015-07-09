@@ -8,7 +8,7 @@ def08eba525fadd47a1944191b4ae250cf3
 	topLevelMessages collect: [:m |
 		{
 			m.
-			relatedMessages select: [:r | (r fields at: #'in-reply-to') first mainValue = (m fields at: #'message-id') first mainValue].
+			relatedMessages select: [:r | (r headerFieldAt: #'in-reply-to') = (m headerFieldAt: #'message-id')].
 			relatedMessages.
 		}
 	]
@@ -19,7 +19,7 @@ def08eba525fadd47a1944191b4ae250cf3
 	topLevelMessages collect: [:m |
 		{
 			m.
-			relatedMessages select: [:r | (r fields at: #''in-reply-to'') first mainValue = (m fields at: #''message-id'') first mainValue].
+			relatedMessages select: [:r | (r headerFieldAt: #''in-reply-to'') = (m headerFieldAt: #''message-id'')].
 			relatedMessages.
 		}
 	]

@@ -1,0 +1,15 @@
+{
+	"category" : "CCMail",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"message",
+		"file" ],
+	"name" : "MailArchiveEntry",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

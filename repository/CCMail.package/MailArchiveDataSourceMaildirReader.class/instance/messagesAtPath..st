@@ -1,3 +1,3 @@
-as yet unclassified
+retrieve-data
 messagesAtPath: aDirectoryEntryDirectory
-	^ (aDirectoryEntryDirectory entries collect: [:e | [MailMessage from: e readStream contents] on: Error do: [nil]]) reject: [:ea | ea isNil]
+	^ (aDirectoryEntryDirectory entries collect: [:e | MailArchiveEntry entryWithFile: e]) reject: [:ea | ea isNil]
