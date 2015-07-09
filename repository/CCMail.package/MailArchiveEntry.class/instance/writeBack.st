@@ -1,7 +1,6 @@
 write-data
 writeBack
-	| content stream |
-	content := self file contents.
+	| stream |
 	stream := self file readWriteStream.
 	self file delete.
-	stream nextPutAll: content.
+	stream nextPutAll: self message text.
