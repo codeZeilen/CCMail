@@ -10,5 +10,5 @@
 	"name" : "CCMailProfile",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "ViScriptArchive",
 	"type" : "normal" }
