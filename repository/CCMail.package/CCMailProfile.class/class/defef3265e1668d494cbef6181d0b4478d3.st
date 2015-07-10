@@ -1,8 +1,8 @@
 definitions
-def259a8a10dca74e709e104d32b00419b4
+defef3265e1668d494cbef6181d0b4478d3
 	<definition>
 
-	^ ((Dictionary new) add: (#class->ViQueryStepDefinition); add: (#properties->((Dictionary new) add: (#creationAuthor->'cc'); add: (#creationTimeStamp->'9 July 2015 3:43:19 am'); yourself)); add: (#id->#'259a8a10-dca7-4e70-9e10-4d32b00419b4'); add: (#block->[:in :out | (
+	^ ((Dictionary new) add: (#class->ViQueryStepDefinition); add: (#properties->((Dictionary new) add: (#copyOf->#'259a8a10-dca7-4e70-9e10-4d32b00419b4'); add: (#creationAuthor->'cc'); add: (#creationTimeStamp->'10 July 2015 7:34:01 pm'); yourself)); add: (#id->#'ef3265e1-668d-494c-bef6-181d0b4478d3'); add: (#block->[:in :out | (
 	[:objects | objects collect: [:doc |
 	(doc subType sameAs: 'plain')
 		ifTrue: [doc content]

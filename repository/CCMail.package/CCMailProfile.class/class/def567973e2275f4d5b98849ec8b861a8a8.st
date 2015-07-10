@@ -1,8 +1,8 @@
 definitions
-def8c967a08bfa24d14b5a198b165cfed4c
+def567973e2275f4d5b98849ec8b861a8a8
 	<definition>
 
-	^ ((Dictionary new) add: (#class->ViQueryStepDefinition); add: (#properties->((Dictionary new) add: (#creationAuthor->'cc'); add: (#creationTimeStamp->'9 July 2015 3:21:19 am'); yourself)); add: (#id->#'8c967a08-bfa2-4d14-b5a1-98b165cfed4c'); add: (#block->[:in :out | (
+	^ ((Dictionary new) add: (#class->ViQueryStepDefinition); add: (#properties->((Dictionary new) add: (#copyOf->#'8c967a08-bfa2-4d14-b5a1-98b165cfed4c'); add: (#creationAuthor->'cc'); add: (#creationTimeStamp->'10 July 2015 7:34:01 pm'); yourself)); add: (#id->#'567973e2-275f-4d5b-9884-9ec8b861a8a8'); add: (#block->[:in :out | (
 	[:objects | objects collect: [:mailMessage | 
 	| message |
 	message := mailMessage message.

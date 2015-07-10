@@ -1,8 +1,8 @@
 definitions
-def73e4dc962f44451ebf4ed8ba125ce5e6
+def8ee9f1fe991840edbcd3f459a35fd317
 	<definition>
 
-	^ ((Dictionary new) add: (#class->ViQueryStepDefinition); add: (#properties->((Dictionary new) add: (#creationAuthor->'cc'); add: (#creationTimeStamp->'9 July 2015 2:57:36 am'); yourself)); add: (#id->#'73e4dc96-2f44-451e-bf4e-d8ba125ce5e6'); add: (#block->[:in :out | ([:all | all collect: [:t | (
+	^ ((Dictionary new) add: (#class->ViQueryStepDefinition); add: (#properties->((Dictionary new) add: (#copyOf->#'73e4dc96-2f44-451e-bf4e-d8ba125ce5e6'); add: (#creationAuthor->'cc'); add: (#creationTimeStamp->'10 July 2015 7:33:09 pm'); yourself)); add: (#id->#'8ee9f1fe-9918-40ed-bcd3-f459a35fd317'); add: (#block->[:in :out | ([:all | all collect: [:t | (
 	[:mailMessage :relatedMessages :allRelatedMessages |
 	| subject icon |
 	subject := mailMessage second headerFieldAt: #subject.
