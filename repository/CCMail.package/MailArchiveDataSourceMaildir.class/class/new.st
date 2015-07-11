@@ -1,3 +1,3 @@
 initialize-release
 new
-	^ self dataSourceWithReader: MailArchiveDataSourceMaildirReader new andWriter: nil
+	^ self dataSourceWithReader: MailArchiveDataSourceMaildirReader new andWriter: MailArchiveDataSourceMaildirWriter new

@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"basePath" : "cc 7/10/2015 20:00",
+		"currentMessagesPathForBoxNamed:" : "cc 7/10/2015 20:01",
+		"newMessagesPathForBoxNamed:" : "cc 7/10/2015 20:01",
+		"pathForBoxNamed:" : "cc 7/10/2015 20:01" },
+	"instance" : {
+		"markMessage:asReadInBoxNamed:" : "cc 7/11/2015 01:42",
+		"markMessage:asUnReadInBoxNamed:" : "cc 7/11/2015 01:42",
+		"moveMessage:toDirectory:" : "cc 7/11/2015 02:10" } }
