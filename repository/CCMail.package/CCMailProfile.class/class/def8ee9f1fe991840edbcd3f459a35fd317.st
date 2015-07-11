@@ -8,7 +8,7 @@ def8ee9f1fe991840edbcd3f459a35fd317
 	subject := mailMessage second headerFieldAt: #subject.
 	(subject isNil)
 		ifTrue: [
-			subject := 'could not mail'.
+			subject := 'could not load message'.
 			icon := UiSilkIcons emailErrorIcon]
 		ifFalse: [
 			subject := subject decodeMimeHeader.
@@ -27,7 +27,7 @@ def8ee9f1fe991840edbcd3f459a35fd317
 	subject := mailMessage second headerFieldAt: #subject.
 	(subject isNil)
 		ifTrue: [
-			subject := ''could not mail''.
+			subject := ''could not load message''.
 			icon := UiSilkIcons emailErrorIcon]
 		ifFalse: [
 			subject := subject decodeMimeHeader.
