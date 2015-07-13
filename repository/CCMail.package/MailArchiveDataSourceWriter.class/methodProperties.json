@@ -2,4 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
+		"markMessage:asReadInBoxNamed:" : "cc 7/11/2015 11:22",
+		"markMessage:asUnReadInBoxNamed:" : "cc 7/11/2015 11:22",
+		"moveMessage:toDirectory:" : "cc 7/11/2015 11:23",
 		"removeMessage:" : "cc 7/11/2015 11:24" } }
