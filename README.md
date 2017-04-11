@@ -11,7 +11,7 @@ To create a new archive backed by a Maildir do:
 
 ```smalltalk
 | myArchive |
-myArchive := MailArchive archiveWithDataSource: MailArchiveDataSourceMaildir new.
+myArchive := MailArchive archiveWithDataSource: MailArchiveDataSourceMaildir newOn: <nameOfYourMailDir>.
 ```
 
 To read the archive from disk do:
@@ -20,6 +20,6 @@ To read the archive from disk do:
 myArchive synchronize.
 ```
 
-:warning: Currently the Maildir will be expected to be in the same folder as your image under the name ```Maildir```. This directory then can contain the Maildir boxes that should be read in.
+:warning: Currently the Maildir will be expected to be in the same folder as your image.
 
 :warning: Nested Maildir boxes will currently not be read in.
