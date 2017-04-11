@@ -1,11 +1,13 @@
 {
 	"class" : {
-		"basePath" : "cc 7/10/2015 20:00",
-		"currentMessagesPathForBoxNamed:" : "cc 7/10/2015 20:01",
-		"newMessagesPathForBoxNamed:" : "cc 7/10/2015 20:01",
-		"pathForBoxNamed:" : "cc 7/10/2015 20:01" },
+		"newOn:" : "pre 4/11/2017 15:24" },
 	"instance" : {
+		"currentMessagesPathForBoxNamed:" : "pre 4/11/2017 15:26",
+		"mailDirPath" : "pre 4/11/2017 15:25",
+		"mailDirPath:" : "pre 4/11/2017 15:25",
 		"markMessage:asReadInBoxNamed:" : "cc 7/11/2015 11:15",
 		"markMessage:asUnReadInBoxNamed:" : "cc 7/11/2015 11:15",
 		"moveMessage:toDirectory:" : "cc 7/11/2015 02:10",
+		"newMessagesPathForBoxNamed:" : "pre 4/11/2017 15:26",
+		"pathForBoxNamed:" : "pre 4/11/2017 15:25",
 		"removeMessage:" : "cc 7/13/2015 09:47" } }

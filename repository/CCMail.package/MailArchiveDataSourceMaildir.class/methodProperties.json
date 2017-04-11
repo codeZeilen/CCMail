@@ -1,5 +1,7 @@
 {
 	"class" : {
-		"new" : "cc 7/10/2015 19:55" },
+		"new" : "cc 7/10/2015 19:55",
+		"newOn:" : "pre 4/11/2017 15:31" },
 	"instance" : {
-		 } }
+		"mailDirPath" : "pre 4/11/2017 15:23",
+		"mailDirPath:" : "pre 4/11/2017 15:23" } }

@@ -1,3 +1,3 @@
 retrieve-data
 currentMessagesInBoxNamed: aBoxName
-	^ self messagesAtPath: (self class currentMessagesPathForBoxNamed: aBoxName)
+	^ self messagesAtPath: (self currentMessagesPathForBoxNamed: aBoxName)

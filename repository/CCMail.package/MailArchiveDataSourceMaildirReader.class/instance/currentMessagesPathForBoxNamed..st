@@ -1,3 +1,3 @@
-paths
+retrieve-data
 currentMessagesPathForBoxNamed: aBoxName
 	^ (self pathForBoxNamed: aBoxName) directoryNamed: 'cur'

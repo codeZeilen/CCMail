@@ -1,3 +1,3 @@
 accessing
 boxes
-	^ self class basePath entries collect: [:e | e name]
+	^ self mailDirPath entries collect: [:e | e name]
