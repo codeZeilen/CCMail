@@ -1,16 +1,14 @@
 {
-	"category" : "CCMail",
+	"category" : "CCMail-Morphic",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"boxes",
-		"source",
 		"folders",
-		"archiveName" ],
-	"name" : "MailArchive",
+		"selectedElement" ],
+	"name" : "MailFolderBrowser",
 	"pools" : [
 		 ],
 	"super" : "Object",

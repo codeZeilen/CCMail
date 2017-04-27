@@ -6,11 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"boxes",
-		"source",
-		"folders",
-		"archiveName" ],
-	"name" : "MailArchive",
+		"archive",
+		"boxName" ],
+	"name" : "MailArchiveBox",
 	"pools" : [
 		 ],
 	"super" : "Object",

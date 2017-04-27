@@ -4,7 +4,11 @@
 	"instance" : {
 		"file" : "cc 7/9/2015 10:37",
 		"file:" : "cc 7/9/2015 10:37",
-		"headerFieldAt:" : "cc 7/9/2015 21:44",
+		"header" : "pre 4/27/2017 10:26",
+		"headerFieldAt:" : "pre 4/20/2017 12:47",
 		"initializeWithFile:" : "cc 7/9/2015 19:56",
+		"isEmail" : "pre 4/18/2017 14:55",
+		"isMailFolder" : "pre 4/18/2017 14:55",
 		"message" : "cc 7/10/2015 00:22",
+		"printString" : "pre 4/20/2017 09:42",
 		"writeBack" : "cc 7/10/2015 00:57" } }

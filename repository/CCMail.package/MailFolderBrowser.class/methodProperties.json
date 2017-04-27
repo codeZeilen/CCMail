@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"openOnArchive:" : "pre 4/19/2017 09:27",
+		"openOnFolder:" : "pre 4/19/2017 09:27" },
+	"instance" : {
+		"buildWith:" : "pre 4/26/2017 14:03",
+		"doubleClickOn:" : "pre 4/27/2017 10:53",
+		"drag:" : "pre 4/18/2017 14:55",
+		"elementNameOf:" : "pre 4/20/2017 12:44",
+		"elementsOfFolder:" : "pre 4/25/2017 11:55",
+		"folders" : "pre 4/19/2017 09:27",
+		"folders:" : "pre 4/19/2017 09:27",
+		"getSelectedEntry" : "pre 4/18/2017 13:58",
+		"isNonEmptyFolder:" : "pre 4/18/2017 14:50",
+		"selectedElement" : "pre 4/19/2017 09:27",
+		"selectedElement:" : "pre 4/19/2017 09:27",
+		"setSelectedEntryTo:" : "pre 4/18/2017 13:58",
+		"wantsDroppedObject:" : "pre 4/20/2017 09:25",
+		"windowColorToUse" : "pre 4/24/2017 21:06" } }

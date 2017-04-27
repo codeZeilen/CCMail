@@ -4,8 +4,15 @@
 	"instance" : {
 		"addBoxWithName:" : "cc 7/6/2015 18:18",
 		"addMessage:toBoxWithName:" : "cc 7/6/2015 18:18",
+		"archiveName" : "pre 4/25/2017 11:45",
+		"archiveName:" : "pre 4/25/2017 11:45",
 		"boxWithName:" : "cc 7/9/2015 02:15",
-		"boxes" : "cc 7/6/2015 18:11",
+		"boxes" : "pre 4/18/2017 14:41",
+		"boxes:" : "pre 4/18/2017 14:31",
+		"createFolders" : "pre 4/18/2017 14:31",
+		"folders" : "pre 4/18/2017 14:31",
+		"folders:" : "pre 4/18/2017 14:31",
+		"foldersInBox:" : "pre 4/18/2017 14:41",
 		"initializeWithDataSource:" : "cc 7/9/2015 01:50",
 		"markMessage:asReadInBoxNamed:" : "cc 7/10/2015 19:51",
 		"markMessage:asUnReadInBoxNamed:" : "cc 7/10/2015 19:51",
@@ -16,4 +23,4 @@
 		"removeMessageWithId:fromBoxWithName:" : "cc 7/11/2015 11:18",
 		"source" : "cc 7/9/2015 01:19",
 		"source:" : "cc 7/9/2015 01:20",
-		"synchronize" : "cc 7/9/2015 01:46" } }
+		"synchronize" : "pre 4/27/2017 10:24" } }

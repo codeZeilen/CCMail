@@ -1,0 +1,4 @@
+write-data
+isEmail
+
+	^ true
